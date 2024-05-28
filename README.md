@@ -50,6 +50,10 @@ This project implements a Question-Answer (QA) system that extracts information 
 
 ### Example Output
 
+
+The example is used with some articles from [https://joantubau.substack.com](https://joantubau.substack.com?utm_source=navbar&utm_medium=web), a Spanish podcast, which I recommend by the way.
+
+
 ```plaintext
 Please enter your question (or type 'exit' to quit): ¿Qué hace que gastar en experiencias sea mejor que gastar en cosas?
 
