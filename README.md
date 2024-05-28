@@ -32,6 +32,27 @@ This project implements a Question-Answer (QA) system that extracts information 
     ```bash
     pip install -r requirements.txt
     ```
+
+## Configuration
+
+You need to configure the environment variables with your API keys and other necessary values. Set the following environment variables:
+
+#### Linux/MacOS:
+```bash
+export OPENAI_API_KEY='your_openai_api_key'
+export ACTIVELOOP_TOKEN='your_activeloop_token'
+export ACTIVELOOP_ID='your_activeloop_id'
+```
+
+#### Windows (PowerShell):
+```bash
+$env:OPENAI_API_KEY='your_openai_api_key'
+$env:ACTIVELOOP_TOKEN='your_activeloop_token'
+$env:ACTIVELOOP_ID='your_activeloop_id'
+```
+
+Replace ``YOUR_OPENAI_API_KEY``, ``YOUR_ACTIVELOOP_TOKEN``, and ``YOUR_ACTIVELOOP_ID`` with your actual API keys and ActiveLoop ID.
+
 ## Usage
 
 
