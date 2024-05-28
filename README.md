@@ -24,8 +24,8 @@ This project implements a Question-Answer (QA) system that extracts information 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/qa_project.git
-    cd qa_project
+    git clone https://github.com/sosanzma/QA_over_docs.git
+    cd QA_over_docs
     ```
 
 2. Install the dependencies:
