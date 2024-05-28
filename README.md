@@ -1,6 +1,6 @@
 # QA Bot with Source Verification
 
-This project implements a Question-Answer (QA) system that extracts information from a set of articles and verifies the sources of the answers. It uses various technologies including `requests` for web scraping, `newspaper3k` for article parsing, and `langchain` for creating and running the QA model with source verification.
+This project implements a Question-Answer (QA) system that extracts information from a set of articles and verifies the sources of the answers. It uses various technologies including `requests` for web scraping, `newspaper3k` for article parsing,  `langchain` for creating and running the QA model with source verification and `deeplake` as a Vectorial Database.
 
 ## Project Structure
 
