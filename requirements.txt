@@ -1,0 +1,7 @@
+langchain==0.1.4
+deeplake
+openai==0.27.8
+tiktoken
+newspaper3k==0.2.8
+requests
+lxml_html_clean
